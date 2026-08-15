@@ -3,6 +3,7 @@ uvicorn
 pydantic<3.0.0
 python-multipart
 pypdf
+numpy==1.26.4
 faiss-cpu
 langchain-community
 langchain-text-splitters

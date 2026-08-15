@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-pydantic>=2.7.0,<3.0.0
-pydantic-settings>=2.0.0
-protobuf>=4.25.3
+pydantic==2.7.4
+pydantic-core==2.18.4
+protobuf==4.25.3
 python-multipart
 pypdf
 numpy==1.26.4
